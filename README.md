@@ -55,5 +55,5 @@ Detectar fraudes de manera más rápida, precisa y adaptativa, utilizando un sis
 | Escalabilidad              | Difícil de escalar con el volumen actual    | Escalable con procesamiento en la nube          |
 
 ## 5. Reflexión Personal
-Uno de los aprendizajes clave es que la IA no reemplaza al humano, sino que lo potencia: libera tiempo para que los analistas se concentren en los casos verdaderamente complejos.
-Además, es crucial considerar aspectos éticos como la transparencia del modelo, la equidad (evitar sesgos en los datos), y la explicación de las decisiones para mantener la confianza del usuario y cumplir con regulaciones.
+Uno de los aprendizajes obtuve es que la IA no reemplaza al humano, sino que lo ayuda a potenciar: libera tiempo para que los analistas se concentren en los casos verdaderamente complejos.
+
